@@ -1,7 +1,3 @@
-# alexa-reminders-listener
-
-This is an example of using [https://github.com/noelportugal/alexa-reminders](https://github.com/noelportugal/alexa-reminders) as a listener.
-
 #### Listener
 Modify index.js to include your device name, username and password.
 
